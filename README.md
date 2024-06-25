@@ -1,4 +1,5 @@
 # Step 1 #
+Needed to automate the deployment of a scalable and secure AWS infrastructure. Set up and configure an EC2 instance with automated setup and scaling capabilities. Created an EC2 instance, used a template with User Data Scripts for automated configuration, set up an Auto Scaling Group, and attached an Application Load Balancer with a Target Group. Added WAF with bot protection for security.
 ## Created The Ec2 Instance ##
 ![Screenshot 2024-02-06 014204](https://github.com/AdityaAgasti007/Aws-Autoscaling-With-WAF-Project/assets/159541012/d4200aaa-8adf-4bb6-bb79-4ebf85c9eb68)
 # Step 2 # 
